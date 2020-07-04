@@ -6,7 +6,7 @@ import android.text.Editable;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
+//import android.widget.Toast;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
